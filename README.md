@@ -1,0 +1,2 @@
+Running docker file will trigger 'app' folder which contains all backend code.
+Frontend full code is present in seperate folder(since it also contains docker file, to avoid conflicts its been put in different folder)
